@@ -5,11 +5,11 @@
 
 	<groupId>io.vertx</groupId>
 	<artifactId>vertx-web-templ-beetl</artifactId>
-	<version>4.0.0.Beta1</version>
+	<version>4.0.0.Beta2</version>
 
 	<properties>
 		<beetl.version>3.1.7.RELEASE</beetl.version>
-		<vertx.version>4.0.0.Beta1</vertx.version>
+		<vertx.version>4.0.0.Beta2</vertx.version>
 	</properties>
 	<dependencyManagement>
 		<dependencies>
